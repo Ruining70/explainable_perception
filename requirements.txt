@@ -35,7 +35,7 @@ scikit-image==0.18.3
 scikit-learn==1.0
 scipy==1.7.1
 semantic-version==2.8.5
-sip==4.19.13
+sip
 sklearn==0.0
 tensorboardX==2.4
 terminado==0.9.4
